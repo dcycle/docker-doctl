@@ -6,12 +6,10 @@ For example:
 
     MYDOTOKEN=put-your-digitalocean-api-token-here
     docker run --rm -e DIGITALOCEAN_ACCESS_TOKEN="$MYDOTOKEN" dcycle/doctl:1 --help
-    docker run --rm -e DIGITALOCEAN_ACCESS_TOKEN="$MYDOTOKEN" dcycle/doctl:1 projects
+    docker run --rm -e DIGITALOCEAN_ACCESS_TOKEN="$MYDOTOKEN" dcycle/doctl:1 compute droplet list --output=json
 
 Resources
 -----
 
 * [this project on the Docker Hub](https://hub.docker.com/r/dcycle/doctl/).
 * [doctl documentation](https://www.digitalocean.com/community/tutorials/how-to-use-doctl-the-official-digitalocean-command-line-client)
-
-docker run --rm -e DIGITALOCEAN_ACCESS_TOKEN="your_DO_token" doctl
