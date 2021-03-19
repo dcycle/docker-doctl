@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-doctl.svg?style=svg)](https://circleci.com/gh/dcycle/docker-doctl)
+**2021-03-19: this project is no longer maintained**
 
 Interact with DigitalOcean using [doctl](https://github.com/digitalocean/doctl).
 
