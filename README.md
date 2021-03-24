@@ -1,4 +1,4 @@
-**2021-03-19: this project is no longer maintained**
+[![CircleCI](https://circleci.com/gh/dcycle/docker-doctl/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-doctl/tree/master)
 
 Interact with DigitalOcean using [doctl](https://github.com/digitalocean/doctl).
 
