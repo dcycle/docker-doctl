@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-doctl.svg?style=svg)](https://circleci.com/gh/dcycle/docker-doctl)
+[![CircleCI](https://circleci.com/gh/dcycle/docker-doctl/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-doctl/tree/master)
 
 Interact with DigitalOcean using [doctl](https://github.com/digitalocean/doctl).
 
